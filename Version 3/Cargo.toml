@@ -1,0 +1,17 @@
+[package]
+name = "acel_cal"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+
+chrono = "0.4"
+anyhow = "1.0"
+plotly = "0.12"
+
+
+
+eframe = "0.31.1"
+egui = "0.31.1"
